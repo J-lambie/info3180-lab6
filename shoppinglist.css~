@@ -15,6 +15,3 @@ li{
 	background:green;
 	margin:5px;
 }
-span{
-	float:right;
-}
